@@ -24,14 +24,8 @@ hr{
     border-top: 2px dotted rgb(175, 192, 23);
     width:90%
 }
-.reg1{
-    margin: 50px 0px  0px 150px;
-    text-align:center;
-    width: 150px;
-    height:20px;
-    border:1px solid black;
-    box-sizing: border-box;
-    background-color: rgb(209, 37, 37);
+button{
+    background-color: rgb(30, 190, 84);
 }
 .box2{
     margin: 0;
