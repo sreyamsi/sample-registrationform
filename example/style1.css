@@ -1,0 +1,171 @@
+body{
+    background-image: url("img1.jpg");
+    background-attachment:fixed;
+    background-size:100% 100%;
+    background-color: rgb(177, 194, 204);
+}
+.image1{
+    display:inline-block;
+    width:450px;
+    height:150px;
+    vertical-align:middle;
+    max-width: 100%;
+    max-height:100%;
+    }
+.first{
+    display:inline-block;
+    width:250px;
+    height:150px;
+    vertical-align:middle;
+    font-size: 30px;
+    padding-left: 20px;
+    color: rgb(185, 11, 55);
+}
+.image2{
+    margin: 0;
+    display:inline-block;
+    width:400px;
+    height:150px;
+    vertical-align:middle;
+    max-width: 100%;
+    max-height:100%;
+    }
+    .sub1{
+        margin: 0px 0px  0px 0px;
+        text-align:center;
+        width: 150px;
+        height: 25px;
+        border:1px solid black;
+        box-sizing: border-box;
+        background-color: rgb(105, 168, 219);
+        border-radius: 9px;
+        padding: 0;
+        margin: 0;
+    }
+    .app1{
+        display:inline-block;
+        width:650px;
+        height:150px;
+        vertical-align:middle;
+        font-size: 20px;
+        padding-left: 20px;
+        color: rgb(41, 31, 31);
+        line-height: 30px;
+    }
+    .app2{
+        display:inline-block;
+        width:500px;
+        height:150px;
+        vertical-align:middle;
+        font-size: 20px;
+        padding-right: 20px;
+        color: rgb(29, 24, 24);
+        line-height: 30px;
+    }
+    .sub2{
+        margin: 0px 0px  0px 0px;
+        text-align:center;
+        width: 150px;
+        height: 25px;
+        border:1px solid black;
+        box-sizing: border-box;
+        background-color: rgb(105, 168, 219);
+        border-radius: 9px;
+        padding: 0;
+        margin: 0;
+    }
+    .app3{
+        display:inline-block;
+        width:650px;
+        height:200px;
+        vertical-align:middle;
+        font-size: 20px;
+        padding-left: 20px;
+        color: rgb(41, 31, 31);
+        line-height: 30px;
+    }
+    .app4{
+        display:inline-block;
+        width:500px;
+        height:200px;
+        vertical-align:middle;
+        font-size: 20px;
+        padding-right: 20px;
+        color: rgb(29, 24, 24);
+        line-height: 30px;
+    }
+    .sub3{
+        margin: 0px 0px  0px 0px;
+        text-align:center;
+        width: 150px;
+        height: 25px;
+        border:1px solid black;
+        box-sizing: border-box;
+        background-color: rgb(105, 168, 219);
+        border-radius: 9px;
+        padding: 0;
+        margin: 0;
+    }
+    .app5{
+        display:inline-block;
+        width:650px;
+        height:100px;
+        vertical-align:middle;
+        font-size: 20px;
+        padding-left: 20px;
+        color: rgb(41, 31, 31);
+        line-height: 30px;
+    }
+    .app6{
+        display:inline-block;
+        width:500px;
+        height:100px;
+        vertical-align:middle;
+        font-size: 20px;
+        padding-right: 20px;
+        color: rgb(29, 24, 24);
+        line-height: 30px;
+    }
+    .sub4{
+        margin: 0px 0px  0px 0px;
+        text-align:center;
+        width: 150px;
+        height: 25px;
+        border:1px solid black;
+        box-sizing: border-box;
+        background-color: rgb(105, 168, 219);
+        border-radius: 9px;
+        padding: 0;
+        margin: 0;
+    }
+    .app7{
+        margin: 10px 0px  0px 0px;
+        text-align:center;
+        line-height: 30px;
+    }
+    .app8{
+        display:inline;
+        margin: 15px 0px  10px 550px;
+        text-align:center;
+        width: 150px;
+        height:20px;
+        border:1px solid rgb(44, 41, 41);
+        box-sizing: border-box;
+    }
+    .app9{
+        display:inline;
+        width:2px;
+        height:2px;
+        vertical-align:middle;
+        max-width: 100%;
+        max-height:100%;
+    }
+    .app10{
+        margin: 35px 0px  10px 550px;
+        text-align:center;
+        width: 150px;
+        height:20px;
+        border:1px solid rgb(44, 41, 41);
+        box-sizing: border-box;
+        background-color: rgb(209, 37, 37);
+    }
